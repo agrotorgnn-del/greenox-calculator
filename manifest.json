@@ -2,23 +2,18 @@
   "name": "Калькулятор ГРИНОКС",
   "short_name": "ГРИНОКС",
   "description": "Калькулятор для шоковой промывки и поения систем поения",
-  "start_url": "/",
+  "start_url": "/greenox-calculator/",
+  "scope": "/greenox-calculator/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#22a74a",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/d3a5eddc-95cf-45bf-9ae7-0411f4c28e20",
-      "sizes": "192x192",
-      "type": "image/jpeg",
-      "purpose": "any"
-    },
-    {
-      "src": "https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/d3a5eddc-95cf-45bf-9ae7-0411f4c28e20",
+      "src": "/greenox-calculator/icon-512.png",
       "sizes": "512x512",
-      "type": "image/jpeg",
-      "purpose": "any"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
